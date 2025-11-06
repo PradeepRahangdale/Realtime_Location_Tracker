@@ -28,9 +28,6 @@ Copy code
 
 http://localhost:3000
 
-pgsql
-Copy code
-
 ## How It Works
 
 Your browser sends your current GPS location to the server using Socket.IO.  
